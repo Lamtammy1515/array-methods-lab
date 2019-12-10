@@ -1,6 +1,6 @@
 def using_include(array, element)
 junk_food = ["pizza", "oreos", "burgers", "fries"]
-junk_food.include? ("pizza")
+junk_food.include? ("pasta")
 end
 
 def using_sort(array)
