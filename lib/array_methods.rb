@@ -1,4 +1,5 @@
 def using_include(array, element)
+junk_food = ["pizza", "oreos", "burgers", "fries"]
 
 end
 
